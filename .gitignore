@@ -1,0 +1,12 @@
+.idea/
+*.iml
+
+bin/
+out/
+target/
+
+run.bat
+
+*.class
+*.code-workspace
+*.pdf
